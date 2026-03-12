@@ -1,0 +1,14 @@
+1;Harry Potter a Kámen mudrců;J. K. Rowling;2001;350
+2;1984;George Orwell;1949;280
+3;Pán prstenů;J. R. R. Tolkien;1954;499
+4;Malý princ;Antoine de Saint-Exupéry;1943;199
+5;Zaklínač – Poslední přání;Andrzej Sapkowski;1993;320
+6;Šifra mistra Leonarda;Dan Brown;2003;259
+7;Hobit;J. R. R. Tolkien;1937;310
+8;Metro 2033;Dmitry Glukhovsky;2005;289
+9;Duna;Frank Herbert;1965;420
+10;Sto roků samoty;Gabriel García Márquez;1967;330
+
+11;Knotkovo Programko;Pavel Knotek;1900;2
+12;Jirkova kniga;Jiri Lhota;1;99999
+13;Rady k uceni;Max Zalesak;2026;555

@@ -1,0 +1,6 @@
+zalivani;150;2
+supl;350;1
+ukliprd;200;10
+student;250.5;250
+ucitel;400.69;10
+jirka;4000000.5;1
