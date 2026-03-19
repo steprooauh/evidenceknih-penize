@@ -30,3 +30,11 @@ naprogramovat rezervační systém;200000;2
 Výstup například:
 1) zamést před firmou: 1 osob (500.40 Kč)
 2) naprogramovat rezervační systém: 20 osob (200000 Kč)
+
+# Evidence turistických tras
+
+```
+Evidence turistických tras je v src/EvidenceTuristickychTras.form a zároveň s ní je i Trasa.java a soubor trasy.txt ve složce DobryDen/
+```
+
+Prohlížeč tras, dokáže přidat a udělat statistiku tras.
