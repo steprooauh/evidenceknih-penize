@@ -1,0 +1,15 @@
+Krkonošská hřebenovka|Krkonoše|23.5|900|4
+Výstup na Sněžku|Krkonoše|8.2|760|3
+Tatranská magistrála|Tatry|46.0|1200|5
+Pustevny – Radhošť|Beskydy|6.4|320|2
+Rysy – Popradské pleso|Tatry|11.0|1000|4
+Šumavská hřebenovka|Šumava|18.7|650|3
+Praděd – Ovčárna|Jeseníky|7.5|450|2
+Velký Rozsutec|Malá Fatra|9.2|850|4
+Sněžník – vrchol|Králický Sněžník|10.3|720|3
+Lysá hora|Beskydy|9.8|780|3
+Babia hora|Oravské Beskydy|13.4|900|4
+Kriváň – výstup|Tatry|11.5|1100|5
+Kleť – vrchol|Blanský les|6.0|400|2
+Ještěd – vrchol|Ještědský hřbet|5.8|350|2
+Velký Javorník|Beskydy|7.2|420|2
