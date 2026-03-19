@@ -13,26 +13,6 @@ public class Trasa {
         this.obtiznost = obtiznost;
     }
 
-    public void setNazev(String nazev) {
-        this.nazev = nazev;
-    }
-
-    public void setDelka(double delka) {
-        this.delka = delka;
-    }
-
-    public void setObtiznost(String obtiznost) {
-        this.obtiznost = obtiznost;
-    }
-
-    public void setPohori(String pohori) {
-        this.pohori = pohori;
-    }
-
-    public void setPrevyseni(int prevyseni) {
-        this.prevyseni = prevyseni;
-    }
-
     public String getNazev() {
         return nazev;
     }
